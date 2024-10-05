@@ -1,0 +1,12 @@
+names:
+- Cat
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-jhizg
+  url: https://universe.roboflow.com/syed-subhan-shah/object-detection-jhizg/dataset/1
+  version: 1
+  workspace: syed-subhan-shah
+test: D:\Object Detection\Object-Detection-1\test\images
+train: D:\Object Detection\Object-Detection-1\train\images
+val: D:\Object Detection\Object-Detection-1\valid\images
